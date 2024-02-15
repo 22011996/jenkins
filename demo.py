@@ -1,2 +1,1 @@
-
-print("is greater")
+print "hello"
